@@ -1,0 +1,20 @@
+{
+  "name": "hhmmss",
+  "version": "1.0.0",
+  "description": "Converts seconds to hh:mm:ss formatted string for use in media players",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "keywords": [
+    "time",
+    "formatter",
+    "seconds",
+    "media-player"
+  ],
+  "author": "Brent Jackson",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^2.2.1"
+  }
+}
